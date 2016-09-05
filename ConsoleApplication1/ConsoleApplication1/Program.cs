@@ -13,6 +13,10 @@ namespace ConsoleApplication1
 			int i = 0;
 		}
 
+		static void Func2()
+		{
+			int i = 0;
+		}
 
 		static void Main(string[] args)
 		{
