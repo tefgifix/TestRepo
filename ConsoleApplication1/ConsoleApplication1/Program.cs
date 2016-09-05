@@ -9,7 +9,9 @@ namespace ConsoleApplication1
 	class Program
 	{
 		static void Func1()
-		{}
+		{
+			int i = 0;
+		}
 
 
 		static void Main(string[] args)
