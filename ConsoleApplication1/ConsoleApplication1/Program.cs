@@ -21,6 +21,7 @@ namespace ConsoleApplication1
 		static void AddedFeature()
 		{
 			int i = 0;
+			int BugFix = 0;
 		}
 
 		static void Main(string[] args)
