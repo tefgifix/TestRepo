@@ -18,6 +18,11 @@ namespace ConsoleApplication1
 			int i = 0;
 		}
 
+		static void AddedFeature()
+		{
+			int i = 0;
+		}
+
 		static void Main(string[] args)
 		{
 		}
